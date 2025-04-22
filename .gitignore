@@ -1,0 +1,10 @@
+# Ignore compiled Go binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+
+# Ignore Mac system files
+.DS_Store
